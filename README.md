@@ -12,11 +12,13 @@ Hey my name is Alex, also called Variiuz. I'm the Founder of [FrostFightStudios]
 ---
 ### Other Information 🎠
 - 🤔 We are actively looking for people who want to help create Afterfall with us. Feel free to send us a [mail](mailto:career@frostfight.com)!
-- 🍤 I'm someone who doesn't actively uses public repos, dont come at me
+- 🍤 I'm someone who doesn't actively uses public repos, dont come at me 🤴
 
-# Music I kinda heared recently
+---
+### Music I kinda heared recently 🔊
 
 ![](metrics.plugin.musicrecently.svg)
+
 ---
 ### My Stats ⏲
 
