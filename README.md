@@ -1,6 +1,6 @@
-### Hey I'm Alex 👋
+### Hey I'm Alex 👋🦊
 
-Hey my name is Alex, also called Variiuz. I'm the Founder of [FrostFightStudios](https://frostfightstudios.com), an Indie Gamestudio currently working on a Videogame called [Afterfall](https://playafterfall.com). My primary Programming Languages are C++ (With a focus on Unreal Engine) and PHP.
+Hey my name is Alex, also called Variiuz, I am 20 years old. I Founded [FrostFightStudios](https://frostfightstudios.com), an Indie Gamestudio currently working on a Videogame called [Afterfall](https://playafterfall.com). Languages I use the most are C++ (UE++), PHP and NodeJS.
 
 ---
 ### Social Media and Contacts 💎
