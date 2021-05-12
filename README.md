@@ -8,6 +8,7 @@ Hey my name is Alex, also called Variiuz. I'm the Founder of [FrostFightStudios]
 -  🦔 [Twitter](https://twitter.com/variiuz)
 -  🥱 [Mail](mailto:alex@alex-needs.space) 
 -  🥞 [Discord](https://dsc.bio/variiuz)
+-  ✍ [Website](https://alex-needs.space/)
 
 ---
 ### Other Information 🎠
