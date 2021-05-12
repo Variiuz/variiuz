@@ -20,9 +20,15 @@ Hey my name is Alex, also called Variiuz. I'm the Founder of [FrostFightStudios]
 ![](metrics.plugin.musicrecently.svg)
 
 ---
-### My Stats ⏲
+### Stats and Recent activity 🕵️‍
 
-![](metrics.plugin.achievements.svg)
+  ![](metrics.plugin.recent.svg)
+  
+<details><summary>Stats ⏲</summary>
+   
+  ![](metrics.plugin.achievements.svg)
 
-![](metrics.plugin.languages.svg)
+  ![](metrics.plugin.languages.svg)
+  
+</details>
 <!--![Github Stats](https://github-readme-stats.vercel.app/api?username=Variiuz&show_icons=true)-->
