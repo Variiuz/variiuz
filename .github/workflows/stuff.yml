@@ -32,7 +32,7 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
-          base: header
+          base: ""
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_achievements: yes
@@ -52,6 +52,17 @@ jobs:
           plugin_languages_colors: "0:orange, javascript:#ff0000, ..." # Make most used languages orange and JavaScript red
           plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
           plugin_languages_threshold: 2%                               # Hides all languages less than 2%
-          plugin_languages_limit: 8                                    # Display up to 8 languages
+          plugin_languages_limit: 8  
+      - name: 🗨️ Recent
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          base: header
+          filename: metrics.plugin.recent.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_activity: yes
+          plugin_activity_limit: 5    # Limit to 5 events
+          plugin_activity_days: 14    # Keep only events from last 14 days (can be set to 0 to disable limitations)
+          plugin_activity_filter: all # Show all events (use table above to filter events types)# Display up to 8 languages
           
           
