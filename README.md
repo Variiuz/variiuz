@@ -5,3 +5,5 @@ Hey my name is Alex, also called Variiuz. I'm the Founder of [FrostFightStudios]
 
 - 📫 You can contact me through: [Twitter](https://twitter.com/variiuz), [Mail](mailto:alex@alex-is-a.ninja) or Discord: Alex.#0666
 - 🤔 I’m looking for help with Afterfall and the Studio, I'm looking for 3D and 2D Artist.
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Variiuz&show_icons=true)
