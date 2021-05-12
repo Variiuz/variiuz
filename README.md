@@ -16,7 +16,7 @@ Hey my name is Alex, also called Variiuz. I'm the Founder of [FrostFightStudios]
 
 # Music I kinda heared recently
 
-![](metrics.plugin.music.svg)
+![](metrics.plugin.musicrecently.svg)
 ---
 ### My Stats ⏲
 
