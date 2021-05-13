@@ -9,6 +9,7 @@ Hey my name is Alex, also called Variiuz, I am 20 years old. I Founded [FrostFig
 -  🥱 [Mail](mailto:alex@alex-needs.space) 
 -  🥞 [Discord](https://dsc.bio/variiuz)
 -  ✍ [Website](https://alex-needs.space/)
+-  😴 [LinkedIn](https://www.linkedin.com/in/alexander-pahl/)
 
 ---
 ### Other Information 🎠
