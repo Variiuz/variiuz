@@ -11,7 +11,7 @@ Hey my name is Alex, also called Variiuz, I am 20 years old. I Founded [FrostFig
 -  ✍ [Website](https://alex-needs.space/)
 -  😴 [LinkedIn](https://www.linkedin.com/in/alexander-pahl/)
 
-![Afterfall Discord](https://img.shields.io/discord/500356704446316567?label=Afterfall&logo=discord&style=for-the-badge)
+[![Afterfall Discord](https://img.shields.io/discord/500356704446316567?label=Afterfall&logo=discord&style=for-the-badge)](https://discord.gg/BKG7nFc)
 
 ---
 ### Other Information 🎠
