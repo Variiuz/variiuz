@@ -1,6 +1,8 @@
 ### Hey I'm Alex 👋🦊
 
 Hey my name is Alex, also called Variiuz, I am 20 years old. I Founded [FrostFightStudios](https://frostfightstudios.com), an Indie Gamestudio currently working on a Videogame called [Afterfall](https://playafterfall.com). Languages I use the most are C++ (UE++), PHP, Javascript and Typescript. Frameworks I currently use: Electron and Vue3
+I'm currently working on the video game digital distribution platform "FrostLauncher" for Indie Developers & Co. You can visit the Discord below for more Info :)
+
 
 ---
 ### Social Media and Contacts 💎
