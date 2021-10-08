@@ -1,6 +1,6 @@
 ### Hey I'm Alex 👋🦊
 
-Hey my name is Alex, also called Variiuz, I am 20 years old. I Founded [FrostFightStudios](https://frostfightstudios.com), an Indie Gamestudio currently working on a Videogame called [Afterfall](https://playafterfall.com) and something called [FrostLauncher](https://launcher.frostfight.com/next). 
+Hey my name is Alex, also called Variiuz, I am 21 years old. I Founded [FrostFightStudios](https://frostfightstudios.com), an Indie Gamestudio currently working on a Videogame called [Afterfall](https://playafterfall.com) and something called [FrostLauncher](https://launcher.frostfight.com/next). 
 
 ---
 ### Things I use 🥙
