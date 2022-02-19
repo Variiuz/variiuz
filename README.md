@@ -43,7 +43,7 @@ FrostLauncher is a video game digital distribution platform for Indie Developers
 [![FrostLauncher Partners & Co.](https://img.shields.io/discord/824236785373806672?label=FrostLauncher&logo=discord&style=for-the-badge)](https://discord.gg/S6R5NDnZMA)
 
 #### Afterfall
-Afterfall is a Game made in Unreal Engine 4(5) made by FrostFightStudios, if you like post-apocalyptic games and The Division, you might love this one ;)
+Afterfall is a Game made in Unreal Engine 5 made by FrostFightStudios, if you like post-apocalyptic games and The Division, you might love this one ;)
 
 [![Afterfall Discord](https://img.shields.io/discord/500356704446316567?label=Afterfall&logo=discord&style=for-the-badge)](https://discord.gg/BKG7nFc)
 
