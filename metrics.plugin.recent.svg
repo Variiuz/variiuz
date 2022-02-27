@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="391" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="774" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.stargazers .chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.af{opacity:0;animation:animation-fade 1s ease forwards}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -85,6 +85,262 @@
                                 <div class="details">
                                     <div>on branch <span class="code">ue5-early-access</span></div>
                                     <div class="commit">
+                                        <div class="sha">#e6241f4</div>
+                                        <div class="message">Update Build.version</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 827 commits in
+                                        <span class="repo">frostfightstudios/UnrealEngine</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ue5-main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4310fd1</div>
+                                        <div class="message">Control Rig: Ensure to clear template graph after spawning template node
+
+#rb jack.cai
+#jira UE-141828
+#preflight https://horde.devtools.epicgames.com/job/620fadf2ec6f84cdfa3ab32e
+
+[CL 19074359 by Helge Mathee in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5beda21</div>
+                                        <div class="message">Horde Storage - Return not found for the x-jupiter-inline type when the content id resolve fails
+
+#preflight none
+
+[CL 19074116 by Joakim Lindqvist in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90aa843</div>
+                                        <div class="message">Horde: Remove unused config in ServerSettings
+#preflight 62150f889e113332ba148aca
+
+[CL 19074015 by carl bystrom in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3be91b4</div>
+                                        <div class="message">MLAdapter: LWC fixes
+
+#review-19051799 @Mieszko.Zielinski
+#rnx
+#preflight 6215064d141b500e17e79e57
+
+[CL 19073637 by Brendan Mulcahy in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1a5667</div>
+                                        <div class="message">horde: include setup time in wait time toggle
+#jira none
+#rb none
+
+[CL 19073525 by Chad Garyet in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4cfaad9</div>
+                                        <div class="message">Strata - fixed fog application on legacy premultiple alpha material.
+
+#rb none
+#preflight none
+#fyi charles.derousiers
+
+[CL 19073348 by Sebastien Hillaire in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d498cb6</div>
+                                        <div class="message">Removing permutation for not compacting empty VSM views since it is not used.
+
+#rb rune.stubbe
+#preflight 62150419797dbbeb4724571d
+
+[CL 19073323 by Ola Olsson in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#efc5f8f</div>
+                                        <div class="message">Fix NonUnity issue
+
+This needs to be refactored out to a DummyWindow for Offscreen rendering vs doing this
+
+#jira UE-143359
+#rb none
+#preflight none
+
+[CL 19073285 by Brandon Schaefer in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#52b31e3</div>
+                                        <div class="message">Merging CL# 18324422
+
+Prevented adding non-existing directories to Python 'sys.path'
+  - This makes Python a bit faster at startup (according to my benchmark) and reduce noise looking at the sys.path.
+
+#jira UE-135129 - Avoid adding non-existing directory to Python 'sys.path'
+#rb Jamie.Dale
+#rnx
+
+#ROBOMERGE-AUTHOR: jamie.dale
+#ROBOMERGE-SOURCE: CL 19061501 via CL 19061514 via CL 19071674 via CL 19071726 via CL 19072205
+#ROBOMERGE-BOT: UE5 (Release-Engine-Staging -&gt; Main) (v920-19070459)
+
+[CL 19073111 by jamie dale in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c7fb92</div>
+                                        <div class="message">Fully deprecated the contextless PostCDOCompiled
+
+#jira
+#preflight 6210450ccc18880e8bc79da5
+#rb none
+#rnx
+
+#ROBOMERGE-AUTHOR: jamie.dale
+#ROBOMERGE-SOURCE: CL 19061229 via CL 19061232 via CL 19071632 via CL 19071711 via CL 19072190
+#ROBOMERGE-BOT: UE5 (Release-Engine-Staging -&gt; Main) (v920-19070459)
+
+[CL 19073102 by jamie dale in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#18f0096</div>
+                                        <div class="message">StringConv.h support for UTF-8 mode.
+
+#rb devin.doucette
+#preflight 62102cf27e111e92375cbb68
+
+#ROBOMERGE-AUTHOR: steve.robb
+#ROBOMERGE-SOURCE: CL 19060362 via CL 19071303 via CL 19071392 via CL 19072078
+#ROBOMERGE-BOT: UE5 (Release-Engine-Staging -&gt; Main) (v920-19070459)
+
+[CL 19073050 by steve robb in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5886b0</div>
+                                        <div class="message">Added a few profiling tags in PCG to have complete coverage
+
+#rnx
+#rb trivial
+#preflight 6214fcbaa97c2c3348ce6b4e
+
+[CL 19073000 by julien lheureux in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6efa928</div>
+                                        <div class="message">Fixed an issue where duplicated actors wouldn't be picked up by the tracked actors
+Fixed an issue where data dependencies in blueprints wouldn't trigger a cache dirty on change.
+
+#rnx
+#rb thomas.tedemalm
+#preflight 6214f0a5a97c2c3348cca3d8
+
+[CL 19072617 by julien lheureux in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c066763</div>
+                                        <div class="message">Added basic logging (errors, timing, additional info)
+
+#jira UE-143099
+#rb thomas.tedemalm
+#preflight 6214ee0a141b500e17e65d04
+
+[CL 19072536 by julien lheureux in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b4913f</div>
+                                        <div class="message">WorldPartition: Bring back InstanceTransform (ref CL: 18071431)
+
+#rb richard.malo, jeanfrancois.dube
+#preflight 6214e9bc141b500e17e3e1bd
+#rnx
+
+[CL 19072479 by Patrick Enfedaque in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6b462e</div>
+                                        <div class="message">Using a separate connection flag (rather than internal ack) to indicate when the partial bunch size limit can be ignored
+
+#rb ryan.gerleve
+
+#ROBOMERGE-AUTHOR: brian.bekich
+#ROBOMERGE-SOURCE: CL 19059868 via CL 19071273 via CL 19071367 via CL 19072068
+#ROBOMERGE-BOT: UE5 (Release-Engine-Staging -&gt; Main) (v920-19070459)
+
+[CL 19072377 by brian bekich in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8322a4f</div>
+                                        <div class="message">Add visibility controls to settings sections
+#rb brooke.hubert
+#preflight skip
+
+#ROBOMERGE-AUTHOR: jason.stasik
+#ROBOMERGE-SOURCE: CL 19053548 via CL 19059537 via CL 19071223 via CL 19071339 via CL 19072058
+#ROBOMERGE-BOT: UE5 (Release-Engine-Staging -&gt; Main) (v920-19070459)
+
+[CL 19072234 by jason stasik in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbe226d</div>
+                                        <div class="message">Updated from code review feedback
+
+#jira
+#preflight 620e6615e8554a6f64e361ba
+#rb Mikko.mononen
+#rnx
+
+#ROBOMERGE-AUTHOR: jamie.dale
+#ROBOMERGE-SOURCE: CL 19053040 via CL 19059529 via CL 19071220 via CL 19071336 via CL 19072052
+#ROBOMERGE-BOT: UE5 (Release-Engine-Staging -&gt; Main) (v920-19070459)
+
+[CL 19072146 by jamie dale in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#40758e0</div>
+                                        <div class="message">Use %llu instead of %ull as cross platform printf specifier
+
+#rb steve.robb
+#jira UE-142917
+#rnx
+#preflight 6214eaf8797dbbeb471bf945
+
+[CL 19072037 by Johan Torp in ue5-main branch]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aca2cce</div>
+                                        <div class="message">WorldPartition: Use UWorld::IsPartitionedWorld instead of HasSubsystem&lt;UWorldPartitionSubsystem&gt; (prepare for subsystem always existing)
+
+#rb richard.malo, jeanfrancois.dube
+#preflight 6214e114a97c2c3348cb166d
+#rnx
+
+[CL 19071881 by Patrick Enfedaque in ue5-main branch]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">frostfightstudios/UnrealEngine</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">ue5-early-access</span></div>
+                                    <div class="commit">
                                         <div class="sha">#438e743</div>
                                         <div class="message">Create building_def_nosign_noddc_linwin.bat</div>
                                     </div>
@@ -127,34 +383,6 @@
                                     <div class="commit">
                                         <div class="sha">#9cebafd</div>
                                         <div class="message">Changed Signer Name for Signing</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">EpicGames/UnrealEngine</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">aws/aws-sdk-js</span>
-                                        to
-                                        <span class="repo">Variiuz/aws-sdk-js</span>
                                     </div>
                                 </div>
                             </section>
