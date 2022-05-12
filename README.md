@@ -49,6 +49,10 @@ Afterfall is a Game made in Unreal Engine 5 made by FrostFightStudios, if you li
 [![Afterfall Discord](https://img.shields.io/discord/500356704446316567?label=Afterfall&logo=discord&style=for-the-badge)](https://discord.gg/BKG7nFc)
 
 
+#### Daydreaming
+Daydreaming is a Horror, multiplayer game where the player is experiencing different stories and challenges.
+[![Daydreaming Discord](https://img.shields.io/discord/950862489837518858?label=Daydreaming&logo=discord&style=for-the-badge)](https://discord.gg/4hqTscGW7s)
+
 
 ---
 ### Social Media and Contacts 💎
