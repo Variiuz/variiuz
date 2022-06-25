@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="266" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="368" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,22 @@
                             From Spotify
                         </div>
                         <div class="tracklist">
+                            <div class="track">
+                                <img src="" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Wieso tust Du dir das an?</div>
+                                    <div class="artist">Apache 207</div>
+                                    <div class="played-at">Played at 09:33:17 on 25 Jun 2022</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">i don't like it, you're not the same</div>
+                                    <div class="artist">meynus</div>
+                                    <div class="played-at">Played at 06:59:34 on 25 Jun 2022</div>
+                                </div>
+                            </div>
                             <div class="track">
                                 <img src="" width="32" height="32" alt="" />
                                 <div class="infos">
