@@ -1,7 +1,6 @@
 ### Hey I'm Alex 👋🦊
 
-Hey my name is Alex, also called Variiuz, I am 21 years old. I Founded [FrostFightStudios](https://frostfightstudios.com), an Indie Gamestudio currently working on a Videogame called [Afterfall](https://playafterfall.com) and something called [FrostLauncher](https://launcher.frostfight.com/next). 
-
+Hey, my name is Alex, also called Variiuz, I do stuff for some companies and myself on the Internet. 
 ---
 ### Things I use 🥙
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -38,46 +37,34 @@ Hey my name is Alex, also called Variiuz, I am 21 years old. I Founded [FrostFig
 ---
 ### Current Projects 🐱‍👤
 
-#### FrostLauncher
-FrostLauncher is a video game digital distribution platform for Indie Developers & Co. You can visit the Discord below for more Info.
-
-[![FrostLauncher Partners & Co.](https://img.shields.io/discord/824236785373806672?label=FrostLauncher&logo=discord&style=for-the-badge)](https://discord.gg/S6R5NDnZMA)
-
-#### Afterfall
-Afterfall is a Game made in Unreal Engine 5 made by FrostFightStudios, if you like post-apocalyptic games and The Division, you might love this one ;)
-
-[![Afterfall Discord](https://img.shields.io/discord/500356704446316567?label=Afterfall&logo=discord&style=for-the-badge)](https://discord.gg/BKG7nFc)
+#### Private Projects
+I mostly work on private Projects currently, but i do sometimes have some public work i will update here!
 
 
-#### Daydreaming
-Daydreaming is a Horror, multiplayer game where the player is experiencing different stories and challenges.
-[![Daydreaming Discord](https://img.shields.io/discord/950862489837518858?label=Daydreaming&logo=discord&style=for-the-badge)](https://discord.gg/4hqTscGW7s)
 
 
 ---
 ### Social Media and Contacts 💎
 
 -  🦔 [Twitter](https://twitter.com/variiuz)
--  🥱 [Mail](mailto:alex@alex-needs.space) 
+-  🥱 [Mail](mailto:alex@uwu-with.me) 
 -  🥞 [Discord](https://dsc.bio/variiuz)
--  ✍ [Website](https://alex-needs.space/)
+-  ✍ [Website](https://uwu-with.me)
 -  😴 [LinkedIn](https://www.linkedin.com/in/alexander-pahl/)
 
 
 
 ---
 ### Other Information 🎠
-- 🤔 We are actively looking for people who want to help create Afterfall with us. Feel free to send us a [mail](mailto:career@frostfight.com)!
-- 🍤 I'm someone who doesn't actively uses public repos, dont come at me 🤴
-- 🧙‍ I'm currently working on the video game digital distribution platform "FrostLauncher" for Indie Developers & Co. You can visit the Discord above for more Info :)
+- 🍤 I'm someone who doesn't actively use public repos, don't come at me 🤴
 
 ---
-### Music I kinda heared recently 🔊
+### Music I heard recently 🔊
 
 ![](metrics.plugin.musicrecently.svg)
 
 ---
-### Stats and Recent activity 🕵️‍
+### Stats and Recent Activity 🕵️‍
 
   ![](metrics.plugin.recent.svg)
   
