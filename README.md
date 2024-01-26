@@ -38,7 +38,7 @@ Hey, my name is Alex, also called Variiuz, I do stuff for some companies and mys
 ### Current Projects 🐱‍👤
 
 #### Private Projects
-I mostly work on private Projects currently, but i do sometimes have some public work i will update here!
+I mostly work on private Projects, but I sometimes have some public work I will update here!
 
 
 
