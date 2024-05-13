@@ -1,6 +1,6 @@
 ### Hey I'm Alex 👋🦊
 
-Hey, my name is Alex, also called Variiuz, I do stuff for some companies and myself on the Internet. 
+My name is Alex, also known as Variiuz. I run my own business and work with several other companies online.  
 ---
 ### Things I use 🥙
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
