@@ -38,7 +38,7 @@ My name is Alex, also known as Variiuz. I run my own business and work with seve
 ### Current Projects 🐱‍👤
 
 #### Private Projects
-I mostly work on private Projects, but I sometimes have some public work I will update here!
+I primarily work on private projects, but I do occasionally take on public work. I will update this page with any relevant updates.
 
 
 
@@ -56,7 +56,7 @@ I mostly work on private Projects, but I sometimes have some public work I will 
 
 ---
 ### Other Information 🎠
-- 🍤 I'm someone who doesn't actively use public repos, don't come at me 🤴
+- 🍤 I don't actively use public repos. Don't come at me with that. 🤴
 
 ---
 ### Music I heard recently 🔊
