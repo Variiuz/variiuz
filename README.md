@@ -52,17 +52,6 @@ I primarily work on private projects, but I do occasionally take on public work.
 -  ✍ [Website](https://uwu-with.me)
 -  😴 [LinkedIn](https://www.linkedin.com/in/alexander-pahl/)
 
-
-
----
-### Other Information 🎠
-- 🍤 I don't actively use public repos. Don't come at me with that. 🤴
-
----
-### Music I heard recently 🔊
-
-![](metrics.plugin.musicrecently.svg)
-
 ---
 ### Stats and Recent Activity 🕵️‍
 
