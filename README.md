@@ -47,10 +47,9 @@ I primarily work on private projects, but I do occasionally take on public work.
 ### Social Media and Contacts 💎
 
 -  🦔 [Twitter](https://twitter.com/variiuz)
--  🥱 [Mail](mailto:alex@uwu-with.me) 
+-  🥱 [Mail](mailto:alexander.vrsn.dev) 
 -  🥞 [Discord](https://dsc.bio/variiuz)
 -  ✍ [Website](https://uwu-with.me)
--  😴 [LinkedIn](https://www.linkedin.com/in/alexander-pahl/)
 
 ---
 ### Stats and Recent Activity 🕵️‍
